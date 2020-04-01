@@ -19,9 +19,9 @@
     "tests"
   ],
   "dependencies": {
-    "pick-a-color": "https://github.com/imvuong/pick-a-color.git#master"
+    "pick-a-color": "https://github.com/schiffm/pick-a-color.git#master"
   },
   "devDependencies": {
-    "pick-a-color": "https://github.com/imvuong/pick-a-color.git#master"
+    "pick-a-color": "https://github.com/schiffm/pick-a-color.git#master"
   }
 }
